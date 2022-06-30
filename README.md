@@ -4,9 +4,9 @@
 
 风景图片生成赛道的任务是基于语义分割图生成有意义、高质量的风景图片，本仓库基于Pix2PixHD实现。
 
-总分：0.4569
+总分：0.4609
 
-排名：A榜19名
+排名：A榜20名
 
 #### Results
 　<table style="border:none;text-align:center;width:auto;margin: 0 auto;">
